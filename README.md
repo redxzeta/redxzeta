@@ -9,6 +9,6 @@
 
 <br>
 <a href="https://github.com/redxzeta/GitHub-FrontPage">
-	<img align="left" src="https://github-readme-stats.vercel.app/api?username=redxzeta&show_icons=true&theme=radical" />
+	<img align="center" src="https://github-readme-stats.vercel.app/api?username=redxzeta&show_icons=true&theme=radical" />
 </a>
 
