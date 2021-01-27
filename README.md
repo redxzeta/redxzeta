@@ -1,10 +1,12 @@
-<div align="center">
-<a href="https://www.github.com/redxzeta/GitHub-FrontPage">
-<img src="https://i.github-camo.com/62baf239d17a85ea2fbf61ce5601fbd2e402aac1/68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f69736b616e6461726a616d696c2f636f6e766572742d68746d6c2d746f2d6a732f6d61737465722f696d672f636f6e766572742d68746d6c2d746f2d6a732e676966" width="400px" />
+
 
 ## Hi there, I am Nathaniel Suarez :wave:
+
+<p>Graduated at California State University - Los Angeles with a Bachelors Degree in Computer Science. I have an interest in software engineering with a passion for learning new technologies whether its in the frontend or backend. I have always wanted to use my software engineering skills to develop software that can help solve problems for customers or clients. For my senior project, I had a chance to do that called [the arQive](https://thearqive.com/), a social media platform for the lgbtq community, where users could share their own story for everybody to see.
+</p>
+
 #### You can find me on:
-[Linkedin](https://www.linkedin.com/in/nsuarez22)-
+[Linkedin](https://www.linkedin.com/in/nsuarez22) [Twitter](https://twitter.com/NathanJoSuarez)
 
 
 <br>
