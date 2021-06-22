@@ -14,3 +14,4 @@
 	<img align="center" src="https://github-readme-stats.vercel.app/api?username=redxzeta&show_icons=true&theme=radical" />
 </a>
 
+<img src="https://avatars.githubusercontent.com/u/54469796"/>
