@@ -32,4 +32,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=redxzeta&" alt="redxzeta" /></p>
 
 ```math
-\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background-position:center; background-repeat: no-repeat; background: url('https://github.com/redxzeta/redxzeta/assets/19883954/e87d4365-1038-435c-80ab-547891c782c4');]{x0000}$}
+\ce{$&#x5C;unicode[goombafont;pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; width: 100vw; height: 100vh; background: url('https://github.com/redxzeta/redxzeta/assets/19883954/e87d4365-1038-435c-80ab-547891c782c4') no-repeat center center; background-size: cover; opacity: 0.5;]{x0000}$}
