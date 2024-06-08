@@ -1,3 +1,7 @@
+<h1 align="center">Hi 👋, I'm Nathan</h1>
+<h3 align="center">Software Engineer</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=redxzeta&label=Profile%20views&color=0e75b6&style=flat" alt="redxzeta" /> </p>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/fQPk6wCmkQ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nsuarez22) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/nathanjosuarez) 
